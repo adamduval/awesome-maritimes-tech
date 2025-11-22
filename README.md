@@ -7,6 +7,8 @@ It highlights resources for anyone looking to build local tech and data communit
 This list is a work in progress, and I’ll continue adding to it as I come across new resources.  
 If you see something missing, please don’t hesitate to reach out or open an issue!
 
+Please share with anyone who might find it useful and give the repo a star.
+
 ## Meetups
 - [Halifax dbt Meetup](https://www.meetup.com/halifax-dbt-meetup/)
 - [Halihax](https://www.halihax.com/)
