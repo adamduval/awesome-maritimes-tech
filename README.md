@@ -1,11 +1,17 @@
 # Awesome Maritimes Tech
 
+<p align="center">
+  <img src="media/sm-boats-header.jpg" alt="Boats at low tide header image"  height="200px" />
+</p>
+
+
 This repo is my contribution to the tech community across the Canadian Maritime provinces of **New Brunswick**, **Nova Scotia**, and **Prince Edward Island**. 
 
 It highlights resources for anyone looking to grow their local tech and data communities, explore job opportunities, or get involved in the region's growing tech scene.
 
 This list is a work in progress, and I’ll continue adding to it as I come across new resources.  
-If you see something missing, please don’t hesitate to reach out or open an issue!
+
+**If you see something missing, please don’t hesitate to reach out or open an issue!**
 
 Please share with anyone who might find it useful and give the repo a star.
 
@@ -22,7 +28,7 @@ Please share with anyone who might find it useful and give the repo a star.
 ## Nova Scotia
 
 - [Digital Nova Scotia](https://digitalnovascotia.com/) -  Nova Scotia tech hub offering events, upskilling, job board, job seeker resources and much more
-- [Halifax dbt Meetup](https://www.meetup.com/halifax-dbt-meetup/) - Halifax, Nova Scotia data meetup focused on dbt (data build tool). Halifax based but with virtual attendance options.
+- [Halifax dbt Meetup](https://www.meetup.com/halifax-dbt-meetup/) - Halifax, Nova Scotia data meetup focused on dbt (data build tool), Halifax based but with virtual attendance options
 - [Halihax](https://www.halihax.com/) - Halifax, Nova Scotia tech and data community with regular meetups
 - [Volta](https://www.voltaeffect.com/) - Halifax, Nova Scotia AI startup incubator community and events
 
@@ -30,7 +36,7 @@ Please share with anyone who might find it useful and give the repo a star.
 ## New Brunswick
 
 - [CollabHub Atlantic](https://collabhubatlantic.ca/) - New Brunswick tech hub with events, job board, upskilling, and tech news
-- [Ignite](https://myignite.ca/) - Fredericton, New Brunswick economic development organization supporting entrepreneurship, hosting tech events and job seeker tools
+- [Ignite](https://myignite.ca/) - Fredericton, New Brunswick economic development supporting entrepreneurship, hosting tech events and job seeker tools
 - [Civic Tech Fredericton](https://www.civictechfredericton.com/) - Fredericton, New Brunswick meetup group tackling social challenges with technology 
 - [Moncton Tech Hive](https://www.facebook.com/people/Moncton-Tech-Hive) - Moncton, New Brunswick dev and tech enthusiast community hosting events
 - [Civic Tech Moncton](https://civictechmoncton.org/) - Moncton, New Brunswick meetup group tackling social challenges with technology 
