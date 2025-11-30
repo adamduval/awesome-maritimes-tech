@@ -31,7 +31,7 @@ Please share with anyone who might find it useful and give the repo a star.
 - [Halifax dbt Meetup](https://www.meetup.com/halifax-dbt-meetup/) - Halifax, Nova Scotia data meetup focused on dbt (data build tool), Halifax based but with virtual attendance options
 - [Halihax](https://www.halihax.com/) - Halifax, Nova Scotia tech and data community with regular meetups
 - [Volta](https://www.voltaeffect.com/) - Halifax, Nova Scotia AI startup incubator community and events
-
+- [AI Collective Halifax](https://luma.com/aic-hfx-12-03) - Halifax, Nova Scotia community exploring the frontier of AI
 
 ## New Brunswick
 
