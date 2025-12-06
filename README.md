@@ -36,6 +36,7 @@ Please share with anyone who might find it useful and give the repo a star.
 ## New Brunswick
 
 - [CollabHub Atlantic](https://collabhubatlantic.ca/) - New Brunswick tech hub with events, job board, upskilling, and tech news
+- [Opportunities NB - Featured Opportunities](https://onbcanada.ca/businesses/about-us/career-seekers/featured-opportunities/) - New Brunswick Business Development, top monthly jobs recap
 - [Ignite](https://myignite.ca/) - Fredericton, New Brunswick economic development supporting entrepreneurship, hosting tech events and job seeker tools
 - [Civic Tech Fredericton](https://www.civictechfredericton.com/) - Fredericton, New Brunswick meetup group tackling social challenges with technology 
 - [Moncton Tech Hive](https://www.facebook.com/people/Moncton-Tech-Hive) - Moncton, New Brunswick dev and tech enthusiast community hosting events
